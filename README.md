@@ -1,2 +1,3 @@
 # Device-Detection-go
-compiled source for go in Ubuntu 
+
+compiled source for go in Ubuntu
